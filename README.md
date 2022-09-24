@@ -3,7 +3,7 @@ Neste repositorio aprenderei a utilizar os comandos básicos do github, assim co
 
 ## Comandos básicos utilizado no git
 ### Repositório remoto
-- **git remote add origin** *(serve para selecionar o diretorio de origem para enviar ao repositorio)*
+- **git remote add origin** *(serve para selecionar o codigo-fonte para seus projetos)*
 - **git push -u origin main** *(serve para enviar seu desenvolvimento ao repositorio)*
 
 
