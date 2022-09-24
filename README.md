@@ -19,3 +19,5 @@ Neste repositorio aprenderei a utilizar os comandos básicos do github, assim co
 
 
 Site para consultar os comandos markdown: [Markdown Guide](https://www.markdownguide.org/basic-syntax/#overview)
+
+# Karen passou por aqui.
